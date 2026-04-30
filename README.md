@@ -1,13 +1,9 @@
----
-title: My Chatbot
-emoji: 🤖
+title: Research
+emoji: 👁
 colorFrom: blue
-colorTo: green
-sdk: streamlit
-sdk_version: 1.35.0 
-app_file: app.py
+colorTo: red
+sdk: docker
 pinned: false
----
 
 # Research- RAG Chat App (LangChain + Chroma + Groq)
 
