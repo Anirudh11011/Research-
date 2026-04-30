@@ -164,7 +164,7 @@ def main() -> None:
 
     st.title("SEAR Lab AI Assistant")
     st.markdown(
-        '<p class="app-caption">Hi! I am SEAR Lab AI Chat Assistant. Ask me any question about our Lab research work </p>',
+        '<p class="app-caption">Hi! I am SEAR Lab AI Chat Assistant. Ask me any question about our Lab research work. </p>',
         unsafe_allow_html=True,
     )
 
