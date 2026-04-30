@@ -154,7 +154,7 @@ def main() -> None:
     load_dotenv()
 
     st.set_page_config(
-        page_title="Research RAG Chat",
+        page_title="SEAR Lab AI Chat Assistant",
         page_icon="🌌",
         layout="wide",
         initial_sidebar_state="expanded",
@@ -162,9 +162,9 @@ def main() -> None:
 
     inject_custom_css()
 
-    st.title("Research Context Chat")
+    st.title("SEAR Lab AI Assistant")
     st.markdown(
-        '<p class="app-caption">Cyberpunk minimalist RAG interface with contextual memory and source tracking.</p>',
+        '<p class="app-caption">Hi! I am SEAR Lab AI Chat Assistant. Ask me any question about our Lab research work </p>',
         unsafe_allow_html=True,
     )
 
