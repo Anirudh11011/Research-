@@ -1,3 +1,14 @@
+---
+title: My Chatbot
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: 1.35.0 
+app_file: app.py
+pinned: false
+---
+
 # Research- RAG Chat App (LangChain + Chroma + Groq)
 
 This project builds a context-grounded LLM chat application using your
