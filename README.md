@@ -1,10 +1,3 @@
-title: Research
-emoji: 👁
-colorFrom: blue
-colorTo: red
-sdk: docker
-pinned: false
-
 # Research- RAG Chat App (LangChain + Chroma + Groq)
 
 This project builds a context-grounded LLM chat application using your
