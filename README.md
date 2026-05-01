@@ -1,3 +1,6 @@
+<img width="935" height="643" alt="image" src="https://github.com/user-attachments/assets/2c5a27ee-5f03-4751-8a94-54c9909c0efc" />
+
+
 # Research- RAG Chat App (LangChain + Chroma + Groq)
 
 This project builds a context-grounded LLM chat application using your
